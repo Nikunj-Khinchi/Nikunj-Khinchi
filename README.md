@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nikunj Khinchi</h1>
 <h4 align="center">Full-Stack Developer | MERN & Django Enthusiast</h4>
 -->
-<br>
 
 # 💫 About Me :
 -    👨🏻‍💻 Ask me about Full Stack Development
