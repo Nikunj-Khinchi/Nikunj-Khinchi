@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Header](./Nikunj-Khinchi.png)
+<!--
 <h1 align="center">Hi 👋, I'm Nikunj Khinchi</h1>
 <h4 align="center">Full-Stack Developer | MERN & Django Enthusiast</h4>
+-->
 <br>
 
 # 💫 About Me :
