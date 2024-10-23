@@ -130,3 +130,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://raw.githubusercontent.com/Nikunj-Khinchi/Nikunj-Khinchi/output/snake.svg" alt="Snake animation" />
+
+<hr>
+
+[![An image of @nikunjkhinchi Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikunjkhinchi)](https://holopin.io/@nikunjkhinchi)
