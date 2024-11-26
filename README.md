@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div >
   <a href="https://www.linkedin.com/in/nikunj-khinchi-b59971230/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="28" alt="linkedin logo" /></a>
-<a href="mailto:nikunjkhinfhi@gmail.com">
+<a href="mailto:nikunjkhinchi@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="28" alt="gmail logo" /></a>
   <a href="https://instagram.com/__.nikku798.__/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="28" alt="instagram logo"  /></a>
   <a href="https://www.leetcode.com/nikunjkhinchi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode Logo" height="28" width="43" /></a>
