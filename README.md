@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -    ♾️ I’m currently learning DevOps
 -    👯 I’m looking to collaborate on backend technologies
 -    🌟 Experience: Proficient in full-stack development using both the MERN stack (MongoDB, Express.js, React, and Node.js) and Django. Skilled in building scalable REST APIs, real-time applications, and frontend development using React and Redux. Experienced in database management with MongoDB, PostgreSQL, MySQL, Prisma, and Django ORM.
--    📃 Feel free to check out my <a href="https://drive.google.com/file/d/1GWz-yP3AnPB27MzznaJQcMmHH6jOn8iN/view?usp=drive_link" target="_blank">resume</a> for more details on my experience and skills.
+-    📃 Feel free to check out my <a href="https://drive.google.com/file/d/1XiDFiGyyPfM5KUuFp_UT_PcY6rfTBvr_/view?usp=sharing" target="_blank">resume</a> for more details on my experience and skills.
 
 <hr>
 
